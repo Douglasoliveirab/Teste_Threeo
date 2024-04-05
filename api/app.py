@@ -5,8 +5,7 @@ from pydantic import BaseModel
 import jwt
 
 users_db = [
-    {"name": "Douglas", "email": "douglas@gmail.com", "password": "root"},
-    {"name": "admin", "email": "admin@gmail.com", "password": "root"}
+    {"name": "admin", "email": "admin@gmail.com", "password": "admin"}
 ]
 
 class User_model(BaseModel):
