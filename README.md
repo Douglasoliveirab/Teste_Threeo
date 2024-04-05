@@ -9,7 +9,7 @@
     Node
 
 ## Como rodar:
-    Após clonar o repositório, e instalar as dependências para o node (npm instal na pasta frontend ), você pode executar o script start.sh, que se encontra na raiz do projeto, ou executar os comandos Docker para fazer o build e levantar o container:
+    Após clonar o repositório, e instalar as dependências para o node (npm install na pasta frontend ), você pode executar o script start.sh, que se encontra na raiz do projeto, ou executar os comandos Docker para fazer o build e levantar o container:
     Em caso de bash:
     ```bash ./start.sh```
     Comandos Docker:
